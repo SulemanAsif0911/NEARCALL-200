@@ -1,0 +1,7 @@
+<resources>
+    <color name="teal_dark">#0B3B36</color>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/teal_dark</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>
